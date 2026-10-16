@@ -1,0 +1,16 @@
+{
+  "name": "FakeTaksi - Sanal Taksi Simülasyonu",
+  "short_name": "FakeTaksi",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffcf20",
+  "theme_color": "#ffcf20",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
